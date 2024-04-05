@@ -1,6 +1,6 @@
 ---
 layout: post
-title: syalr-config模块
+title: syalr-2-config
 author: Qiang Liu
 # date: 2024-04-03
 toc:  true
